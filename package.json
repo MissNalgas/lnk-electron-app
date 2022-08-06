@@ -1,7 +1,7 @@
 {
   "name": "lnk",
   "version": "1.0.0",
-  "description": "This is an Mssn Application.",
+  "description": "This is a Mssn Application.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
